@@ -1,4 +1,4 @@
-//No Parameters – Return Value
+//No Parameters â€“ Return Value
 //Read 2 sides and return the area of a triangle.
 #include<iostream>
 using namespace std;
