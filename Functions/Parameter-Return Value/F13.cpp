@@ -1,4 +1,4 @@
-//Parameters – Return Value
+//Parameters â€“ Return Value
 //Return the HCF of 2 numbers.
 #include<iostream>
 #include<numeric>
